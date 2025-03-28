@@ -18,8 +18,8 @@ NULL AI Server API là một dịch vụ REST API được xây dựng bằng Fl
 ### Các bước cài đặt
 1. Clone repository:
 ```bash
-git clone https://github.com/reseter1/NULLAIServerAPI.git
-cd NULLAIServerAPI
+git clone https://github.com/reseter1/SimpleFlaskAIAPI.git
+cd SimpleFlaskAIAPI
 ```
 
 2. Tạo và kích hoạt môi trường ảo:
